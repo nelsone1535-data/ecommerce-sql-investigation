@@ -61,17 +61,13 @@ Approximate dataset size:
 
 ## Data Visualizations
 
-### Monthly Revenue Trend
-
-monthly_revenue_chart.png
+Monthly Revenue Trend: monthly_revenue_chart.png
 
 This chart shows how revenue changed over time as the platform grew.
 
 ---
 
-### Top Product Categories by Revenue
-
-top_products_revenue_chart.png
+Top Product Categories by Revenue: top_products_revenue_chart.png
 
 A small number of product categories generate a disproportionate share of total revenue.
 
