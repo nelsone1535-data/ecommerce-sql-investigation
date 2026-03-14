@@ -1,0 +1,10 @@
+Tables Used
+
+orders – order information
+customers – customer location
+order_items – purchased items
+payments – payment values
+reviews – customer feedback
+products – product categories
+
+--To keep my first repository clean I left my notes on a seperate google doc
