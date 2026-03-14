@@ -15,6 +15,5 @@ Customer purchase patterns show that many customers place only a small number of
 --- Delivery Performance
 Late deliveries are associated with lower customer review scores.
 
-
 --- Business Implication
 Focusing marketing efforts on high-performing product categories and encouraging repeat purchases could significantly increase overall revenue.
