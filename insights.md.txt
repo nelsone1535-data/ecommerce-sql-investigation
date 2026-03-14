@@ -1,19 +1,17 @@
-# Key Insights
-
---- Monthly Revenue Trends
+1. Monthly Revenue Trends
 Revenue shows clear fluctuations month to month, suggesting seasonal purchasing patterns. Understanding these trends can help businesses better forecast demand and plan marketing campaigns.
 
---- Geographic Trends
+2. Geographic Trends
 Revenue varies significantly by state, indicating stronger demand in certain regions.
 
---- Top Revenue-Generating Product Categories
+3. Top Revenue-Generating Product Categories
 A small number of product categories contribute a large share of total revenue, indicating that product demand is concentrated among a few key categories.
 
---- Customer Purchase Behavior
+4. Customer Purchase Behavior
 Customer purchase patterns show that many customers place only a small number of orders, while a smaller group of "High-value" repeat customers contributes significantly to total sales.
 
---- Delivery Performance
+5. Delivery Performance
 Late deliveries are associated with lower customer review scores.
 
---- Business Implication
+6. Business Implication
 Focusing marketing efforts on high-performing product categories and encouraging repeat purchases could significantly increase overall revenue.
